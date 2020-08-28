@@ -10,7 +10,7 @@ Date:
 14-July-2020
 
 Live Demo:
-https://nifty-shockley-d2b1ef.netlify.app/
+http://ecommerce-site-infinity-computers.epizy.com/eCommerceProject/
 
 CMS Demo:
-https://nifty-shockley-d2b1ef.netlify.app/assets/cms/dashboard.html
+http://ecommerce-site-infinity-computers.epizy.com/eCommerceProject/assets/cms/dashboard.php
